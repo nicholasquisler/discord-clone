@@ -1,0 +1,25 @@
+.message {
+    display: flex;
+    padding: 20px;
+    color: white;
+}
+
+.message__info {
+    margin-left: 20px;
+}
+
+.message__info p {
+    overflow: auto;
+    max-width: 50vw;
+}
+
+.message__timestamp {
+    color: grey;
+    margin-left: 20px;
+    font-size: x-small;
+}
+
+.MuiAvatar-img {
+    display: flex;
+    align-content: flex-start;
+}
