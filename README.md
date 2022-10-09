@@ -1,6 +1,6 @@
 ## Discord Clone
 
-## Website Link
+### Website Link
 - https://nicholasquisler.github.io/discord-clone/
 
 ### About
