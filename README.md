@@ -3,6 +3,9 @@
 ### Website Link
 - https://nicholasquisler.github.io/discord-clone/
 
+### Preview
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/discordClone.PNG)
+
 ### About
 - This is an online messaging website to help users communicate in discord-like channels. You sign-in with your google account and you can log out by clicking your google profile image.
 
